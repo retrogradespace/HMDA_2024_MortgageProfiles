@@ -1,0 +1,19 @@
+# Local environment and OS artifacts
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.mplcache/
+
+# Internal planning/release docs
+EXPORT_AND_RELEASE_PLAN.md
+PUBLISHING_CHECKLIST.md
+RELEASE_NOTES.md
+DATA_RELEASE_README.md
+
+# Local data and outputs
+*.csv
+*.parquet
+*.zip
+output/
